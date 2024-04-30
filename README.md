@@ -38,3 +38,5 @@ Predic ng customer lifeme value based on historical transac on data.
 When to Use: - Handling complex, non-linear rela onships in high-dimensional data. - Requires large amounts of data and computa onal resources. - Where to Use: - Image recogni on tasks such as iden fying objects in images. - Natural language processing tasks such as senment analysis or machine transla on.
 
 Choose the appropriate supervised learning model based on factors such as the nature of the data, the problem at hand, the size of the dataset, and the desired interpretability of the model. Experimenta on and evalua on with mul ple models may be necessary to find the best fit for your specific task.
+
+https://pastecode.io/s/5hzih5jq
